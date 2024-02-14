@@ -1,4 +1,6 @@
-#include <stdio.h>
+//binary search 
+
+include <stdio.h>
 
 int binary_search(int arr[], int n, int target) {
     int low = 0, high = n - 1;
